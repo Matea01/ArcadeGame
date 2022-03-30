@@ -1,2 +1,0 @@
-# ArcadeGame
-simple game
