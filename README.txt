@@ -18,4 +18,6 @@ delta= koordinate vertikale -reket+ pola visine)
 reset- win condition-> def konstantu koja ce def pobjjednika i onda usporedujemo var od igraca  i  sa njom
 te tako odredujemo pobjednika. Najlogicnije je to usporedivati na mjestu gdje se resetira lopta. Prvo
 uvecamo rezultst pa resetiramo loptu.
-Kad se postigne pobjednicki score onda resetiraj score onba igraca.
+Kad se postigne pobjednicki score onda resetiraj score oba igraca.
+Dodana mrežica 
+**povecala font
